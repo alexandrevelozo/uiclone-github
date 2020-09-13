@@ -31,7 +31,7 @@
 
 <h2 id="screens"> Screenshot </h2>
 
-  <img src=".github/bg.png" alt="flex" height="1080" width="1920" />
+  <img src=".github/bg.png" alt="flex" height="920" width="1080" />
   <br/>&nbsp;
 
 <h2 id="techs"> Technologies </h2>
