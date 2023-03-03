@@ -14,7 +14,7 @@
   
   <br/>
   
-  <p>Project carried out during the <b>UI Clone - Rocketseat</b></p>
+  <p>UI Clone - Github</b></p>
   <p>Link deploy: <br> https://uiclone-github.netlify.app/</p>
 
 </div>
